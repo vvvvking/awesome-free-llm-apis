@@ -21,7 +21,7 @@
 <h3 align="center">Sponsors</h3>
 
 <p align="center">
-	<a href="https://okapi.dev">
+	<a href="https://okapi.bot">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="media/okapi-logo-dark.svg">
 			<img src="media/okapi-logo-light.svg" width="180" alt="Okapi">
