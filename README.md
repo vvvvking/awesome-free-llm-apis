@@ -188,7 +188,6 @@ Base URL: `https://api.kilo.ai/api/gateway`
 | `kilo-auto/free`                                     | 256K    | 32K        | Text          | 200 req/hr |
 | `inclusionai/ling-3.1-flash`                         | 262K    | 32K        | Text          | 200 req/hr |
 | `inclusionai/ling-3.0-flash-sante:free`              | 262K    | 32K        | Text          | 200 req/hr |
-| `apodex/apodex-1.1-mini:free`                        | 262K    | 235K       | Text          | 200 req/hr |
 | `qwen/qwen3.8-27b:free`                              | 262K    | 235K       | Multimodal    | 200 req/hr |
 | `dots-studio/dots-3-note-preview:free`               | 512K    | 460K       | Text + Vision | 200 req/hr |
 
@@ -242,7 +241,6 @@ Base URL: `https://ollama.com/api`
 | Model Name             | Context | Max Output      | Modality | Rate Limit                          |
 | ---------------------- | ------- | --------------- | -------- | ----------------------------------- |
 | deepseek-v4-pro        | 1M      | Model-dependent | Text     | Session/weekly limits (unpublished) |
-| deepseek-v4-flash      | 1M      | Model-dependent | Text     | Session/weekly limits (unpublished) |
 | minimax-m3             | 512K    | Model-dependent | Text     | Session/weekly limits (unpublished) |
 | kimi-k3                | 1M      | Model-dependent | Text     | Session/weekly limits (unpublished) |
 | `gpt-oss:120b`         | 128K    | Model-dependent | Text     | Session/weekly limits (unpublished) |

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-21",
   "providers": [
     {
       "name": "Aion Labs",
@@ -644,14 +644,6 @@
           "rateLimit": "200 req/hr"
         },
         {
-          "id": "apodex/apodex-1.1-mini:free",
-          "name": "apodex/apodex-1.1-mini:free",
-          "context": "262K",
-          "maxOutput": "235K",
-          "modality": "Text",
-          "rateLimit": "200 req/hr"
-        },
-        {
           "id": "qwen/qwen3.8-27b:free",
           "name": "qwen/qwen3.8-27b:free",
           "context": "262K",
@@ -830,14 +822,6 @@
         {
           "id": "deepseek-v4-pro",
           "name": "deepseek-v4-pro",
-          "context": "1M",
-          "maxOutput": "Model-dependent",
-          "modality": "Text",
-          "rateLimit": "Session/weekly limits (unpublished)"
-        },
-        {
-          "id": "deepseek-v4-flash",
-          "name": "deepseek-v4-flash",
           "context": "1M",
           "maxOutput": "Model-dependent",
           "modality": "Text",
